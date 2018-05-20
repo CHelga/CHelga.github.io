@@ -1,0 +1,21 @@
+@import url('http://fonts.googleapis.com/css?family=Montserrat');
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.content-style{
+	margin-top: 5%;
+}
+
+.project_card{
+	height: 403.234px;
+}
+
+.hidden_data{
+	display: none;
+	background-color: grey;
+}
+
+.thank-you-title{
+	margin-top: 5%;
+}
